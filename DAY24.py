@@ -23,8 +23,7 @@ class Solution:
             current = current.next
 
     def removeDuplicates(self,head):
-        #Write your code here
-        
+              
         if head is None:
             return head
         
