@@ -1,7 +1,5 @@
 #https://www.hackerrank.com/challenges/30-running-time-and-complexity
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 import math
-
 def is_prime(n):
     if n == 1:
         return False
