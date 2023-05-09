@@ -1,4 +1,5 @@
 #https://www.hackerrank.com/challenges/30-generics
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -18,7 +19,6 @@ void printArray(const vector<T>& arr) {
         cout << elem << endl;
     }
 }
-
 
 int main() {
 	int n;
